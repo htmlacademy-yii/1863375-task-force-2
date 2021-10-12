@@ -1,0 +1,16 @@
+{
+    "name": "anna/task",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Anna Talanina",
+            "email": "anna.talanina97@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+          "TaskForce\\": "src/"
+      }  
+    },
+    "require": {}
+}
