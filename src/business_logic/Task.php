@@ -1,4 +1,5 @@
 <?php
+namespace TaskForce\business_logic;
 class Task
 {
     private $status;
